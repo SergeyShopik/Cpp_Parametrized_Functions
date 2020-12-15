@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\TemplateFuctions\Debug\TemplateFuctions.exe
+C:\Users\HP\source\repos\TemplateFuctions\Debug\TemplateFuctions.pdb
